@@ -39,7 +39,7 @@
     "lodash": "^4.17.21",
     "markdown-it": "^13.0.1",
     "markdown-it-link-attributes": "^4.0.1",
-    "monaco-editor": "^0.34.0",
+    "monaco-editor": "^0.38.0",
     "monaco-editor-esm-webpack-plugin": "^2.1.0",
     "monaco-editor-nls": "^3.0.0",
     "monaco-editor-webpack-plugin": "^7.0.1",

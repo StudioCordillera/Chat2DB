@@ -29,7 +29,7 @@
     ]
   },
   "dependencies": {
-    "@ant-design/pro-layout": "6.5.0",
+    "@ant-design/pro-layout": "7.20.1",
     "@traptitech/markdown-it-katex": "^3.6.0",
     "antd": "4.23.2",
     "event-source-polyfill": "^1.0.31",
